@@ -3,6 +3,13 @@
 import pytest
 from app import App
 
+def test_app_get_environment_variable():
+    app = App()
+    #Retrieve the current environment setting
+    current_env = app.get_environment_variable('ENVIRONMENT')
+    # Assert that the current environment is what you expect
+    assert current_env in ['DEVELOPMENT', 'TESTING', 'PRODUCTION'], f"Invalid ENVIRONMENT: {current_env}"
+
 def test_app_start_exit_command(capfd, monkeypatch):
     """Test app starts and exits correctly."""
     """Test that the REPL exits correctly on 'exit' command."""

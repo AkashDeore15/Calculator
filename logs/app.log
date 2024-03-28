@@ -1,0 +1,115 @@
+2024-03-27 23:57:06,780 - root - INFO - Logging configured.
+2024-03-27 23:57:06,780 - root - INFO - Environment variables loaded.
+2024-03-27 23:57:06,786 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-27 23:59:06,154 - root - INFO - Logging configured.
+2024-03-27 23:59:06,154 - root - INFO - Environment variables loaded.
+2024-03-27 23:59:06,159 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-27 23:59:06,159 - root - ERROR - Error importing plugin add
+2024-03-27 23:59:06,159 - root - ERROR - Error importing plugin add
+2024-03-27 23:59:06,159 - root - ERROR - Error importing plugin add
+2024-03-27 23:59:06,159 - root - ERROR - Error importing plugin add
+2024-03-27 23:59:06,159 - root - ERROR - Error importing plugin add
+2024-03-27 23:59:06,160 - root - ERROR - Error importing plugin add
+2024-03-27 23:59:06,160 - root - ERROR - Error importing plugin add
+2024-03-27 23:59:06,160 - root - ERROR - Error importing plugin add
+2024-03-27 23:59:06,160 - root - ERROR - Error importing plugin add
+2024-03-27 23:59:06,160 - root - ERROR - Error importing plugin add
+2024-03-27 23:59:06,160 - root - ERROR - Error importing plugin add
+2024-03-27 23:59:06,162 - root - ERROR - Error importing plugin divide
+2024-03-27 23:59:06,162 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-27 23:59:06,162 - root - ERROR - Error importing plugin divide
+2024-03-27 23:59:06,162 - root - ERROR - Error importing plugin divide
+2024-03-27 23:59:06,162 - root - ERROR - Error importing plugin divide
+2024-03-27 23:59:06,163 - root - ERROR - Error importing plugin divide
+2024-03-27 23:59:06,163 - root - ERROR - Error importing plugin divide
+2024-03-27 23:59:06,163 - root - ERROR - Error importing plugin divide
+2024-03-27 23:59:06,163 - root - ERROR - Error importing plugin divide
+2024-03-27 23:59:06,163 - root - ERROR - Error importing plugin divide
+2024-03-27 23:59:06,163 - root - ERROR - Error importing plugin divide
+2024-03-27 23:59:06,163 - root - ERROR - Error importing plugin divide
+2024-03-27 23:59:06,163 - root - ERROR - Error importing plugin divide
+2024-03-27 23:59:06,164 - root - ERROR - Error importing plugin exit
+2024-03-27 23:59:06,164 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-27 23:59:06,164 - root - ERROR - Error importing plugin exit
+2024-03-27 23:59:06,165 - root - ERROR - Error importing plugin exit
+2024-03-27 23:59:06,165 - root - ERROR - Error importing plugin exit
+2024-03-27 23:59:06,165 - root - ERROR - Error importing plugin exit
+2024-03-27 23:59:06,165 - root - ERROR - Error importing plugin exit
+2024-03-27 23:59:06,165 - root - ERROR - Error importing plugin exit
+2024-03-27 23:59:06,165 - root - ERROR - Error importing plugin exit
+2024-03-27 23:59:06,165 - root - ERROR - Error importing plugin exit
+2024-03-27 23:59:06,165 - root - ERROR - Error importing plugin exit
+2024-03-27 23:59:06,165 - root - ERROR - Error importing plugin exit
+2024-03-27 23:59:06,165 - root - ERROR - Error importing plugin exit
+2024-03-27 23:59:06,166 - root - ERROR - Error importing plugin menu
+2024-03-27 23:59:06,166 - root - ERROR - Error importing plugin menu
+2024-03-27 23:59:06,166 - root - ERROR - Error importing plugin menu
+2024-03-27 23:59:06,166 - root - ERROR - Error importing plugin menu
+2024-03-27 23:59:06,166 - root - ERROR - Error importing plugin menu
+2024-03-27 23:59:06,166 - root - ERROR - Error importing plugin menu
+2024-03-27 23:59:06,166 - root - ERROR - Error importing plugin menu
+2024-03-27 23:59:06,166 - root - ERROR - Error importing plugin menu
+2024-03-27 23:59:06,166 - root - ERROR - Error importing plugin menu
+2024-03-27 23:59:06,167 - root - ERROR - Error importing plugin menu
+2024-03-27 23:59:06,167 - root - ERROR - Error importing plugin menu
+2024-03-27 23:59:06,167 - root - ERROR - Error importing plugin menu
+2024-03-27 23:59:06,168 - root - ERROR - Error importing plugin multiply
+2024-03-27 23:59:06,168 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-27 23:59:06,168 - root - ERROR - Error importing plugin multiply
+2024-03-27 23:59:06,168 - root - ERROR - Error importing plugin multiply
+2024-03-27 23:59:06,168 - root - ERROR - Error importing plugin multiply
+2024-03-27 23:59:06,168 - root - ERROR - Error importing plugin multiply
+2024-03-27 23:59:06,168 - root - ERROR - Error importing plugin multiply
+2024-03-27 23:59:06,168 - root - ERROR - Error importing plugin multiply
+2024-03-27 23:59:06,168 - root - ERROR - Error importing plugin multiply
+2024-03-27 23:59:06,169 - root - ERROR - Error importing plugin multiply
+2024-03-27 23:59:06,169 - root - ERROR - Error importing plugin multiply
+2024-03-27 23:59:06,169 - root - ERROR - Error importing plugin multiply
+2024-03-27 23:59:06,169 - root - ERROR - Error importing plugin multiply
+2024-03-27 23:59:06,170 - root - ERROR - Error importing plugin subtract
+2024-03-27 23:59:06,170 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-27 23:59:06,170 - root - ERROR - Error importing plugin subtract
+2024-03-27 23:59:06,170 - root - ERROR - Error importing plugin subtract
+2024-03-27 23:59:06,170 - root - ERROR - Error importing plugin subtract
+2024-03-27 23:59:06,170 - root - ERROR - Error importing plugin subtract
+2024-03-27 23:59:06,170 - root - ERROR - Error importing plugin subtract
+2024-03-27 23:59:06,171 - root - ERROR - Error importing plugin subtract
+2024-03-27 23:59:06,171 - root - ERROR - Error importing plugin subtract
+2024-03-27 23:59:06,171 - root - ERROR - Error importing plugin subtract
+2024-03-27 23:59:06,171 - root - ERROR - Error importing plugin subtract
+2024-03-27 23:59:06,171 - root - ERROR - Error importing plugin subtract
+2024-03-27 23:59:06,171 - root - ERROR - Error importing plugin subtract
+2024-03-27 23:59:06,171 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-28 00:00:14,991 - root - INFO - 6.0 / 3.0 = 2.0
+2024-03-28 00:00:29,138 - root - INFO - 7.0 * 3.0 = 21.0
+2024-03-28 00:00:39,500 - root - INFO - 6.0 - 8.0 = -2.0
+2024-03-28 00:00:51,348 - root - INFO - Exit!
+2024-03-28 00:05:03,513 - root - INFO - Logging configured.
+2024-03-28 00:05:03,514 - root - INFO - Environment variables loaded.
+2024-03-28 00:05:03,519 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-28 00:05:03,520 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-28 00:05:03,520 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-28 00:05:03,521 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-28 00:05:03,521 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-28 00:05:03,521 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-28 00:06:13,342 - root - INFO - Logging configured.
+2024-03-28 00:06:13,343 - root - INFO - Environment variables loaded.
+2024-03-28 00:06:13,349 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-28 00:06:13,350 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-28 00:06:13,351 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-28 00:06:13,351 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-28 00:06:13,352 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-28 00:06:13,352 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-28 00:06:52,012 - root - INFO - Logging configured.
+2024-03-28 00:06:52,012 - root - INFO - Environment variables loaded.
+2024-03-28 00:06:52,017 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-28 00:06:52,018 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-28 00:06:52,018 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-28 00:06:52,018 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-28 00:06:52,019 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-28 00:06:52,019 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-28 00:06:56,625 - root - INFO - Addition: 3.0 + 4.0 = 7.0
+2024-03-28 00:07:05,083 - root - INFO - 5.0 - 2.0 = 3.0
+2024-03-28 00:07:12,288 - root - INFO - 7.0 * 8.0 = 56.0
+2024-03-28 00:07:17,124 - root - INFO - 5.0 / 2.0 = 2.5
+2024-03-28 00:07:25,740 - root - INFO - Exit!
