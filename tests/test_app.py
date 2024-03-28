@@ -4,6 +4,7 @@ import pytest
 from app import App
 
 def test_app_get_environment_variable():
+    """Test whether the environment variables are fetched """
     app = App()
     #Retrieve the current environment setting
     current_env = app.get_environment_variable('ENVIRONMENT')
