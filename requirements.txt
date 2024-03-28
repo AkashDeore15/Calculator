@@ -16,3 +16,4 @@ pytest-pylint==0.21.0
 tomli==2.0.1
 tomlkit==0.12.4
 typing_extensions==4.10.0
+python-dotenv
