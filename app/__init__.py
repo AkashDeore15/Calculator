@@ -56,15 +56,27 @@ class App:
         logging.info("Application started. Type 'exit' to exit.")
         self.command_handler.register_command("menu", MenuCommand(self.command_handler))
         print("Type 'menu' to display available commands. \nType 'exit' to exit.")
-        while True:  #REPL Read, Evaluate, Print, Loop
-            input_command = input(">>> ").strip()  # Read the command input
-            command_parts = input_command.split(maxsplit=1)  # Split into command and arguments
-            command_name = command_parts[0]  # The command itself
-            args = command_parts[1] if len(command_parts) > 1 else ""  # Arguments, if any
+        try:
+            while True:  #REPL Read, Evaluate, Print, Loop
+                input_command = input(">>> ").strip()  # Read the command input
+                command_parts = input_command.split(maxsplit=1)  # Split into command and arguments
+                command_name = command_parts[0]  # The command itself
+                args = command_parts[1] if len(command_parts) > 1 else ""  # Arguments, if any
+                if input_command.lower() == 'exit':
+                    logging.info("Application exit.")
+                    sys.exit(0)  # Use sys.exit(0) for a clean exit, indicating success.
 
-            # Execute the command with the provided arguments
-            if command_name in self.command_handler.commands:
-                self.command_handler.execute_command(command_name, args)
-            else:
-                print(f"No such command: {command_name}")
+                # Execute the command with the provided arguments
+                try:
+                    self.command_handler.execute_command(command_name, args)
+                except KeyError:
+                    print(f"No such command: {command_name}")
+                    logging.error(f"Unknown command: {cmd_input}")
+                    sys.exit(1)  # Use a non-zero exit code to indicate failure or incorrect command.
+        except KeyboardInterrupt:
+            logging.info("Application interrupted and exiting gracefully.")
+            sys.exit(0)  # Assuming a KeyboardInterrupt should also result in a clean exit.
+        finally:
+            logging.info("Application shutdown.")
+
             

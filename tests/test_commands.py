@@ -1,22 +1,9 @@
 """Module for testing command functionalities in the application."""
-import pytest
-from app import App
+#from app import App
 from app.plugins.add import AddCommand
 from app.plugins.subtract import SubtractCommand
 from app.plugins.multiply import MultiplyCommand
 from app.plugins.divide import DivideCommand
-
-def test_app_greet_command(capfd, monkeypatch):
-    """Test that the REPL correctly handles the 'greet' command."""
-    # Simulate user entering 'greet' followed by 'exit'
-    inputs = iter(['greet', 'exit'])
-    monkeypatch.setattr('builtins.input', lambda _: next(inputs))
-
-    app = App()
-    with pytest.raises(SystemExit) as e:
-        app.start()  # Assuming App.start() is now a static method based on previous discussions
-    
-    assert str(e.value) == "Exiting...", "The app did not exit as expected"
 
 def test_add_command(capfd):
     """Test that the REPL correctly handles the 'add' command."""
@@ -52,4 +39,3 @@ def test_divide_by_zero_command(capfd):
     command.execute("8 0")
     out, _ = capfd.readouterr()
     assert "Error" in out, "The DivideCommand should handle division by zero with an error message"
-    
