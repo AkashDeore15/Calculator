@@ -1273,3 +1273,167 @@
 2024-03-29 18:07:11,668 - root - INFO - Calculation history cleared successfully.
 2024-03-29 18:07:19,799 - root - INFO - Application interrupted and exiting gracefully.
 2024-03-29 18:07:19,799 - root - INFO - Application shutdown.
+2024-03-29 18:17:43,839 - root - INFO - Logging configured.
+2024-03-29 18:17:43,840 - root - INFO - Environment variables loaded.
+2024-03-29 18:17:43,843 - root - INFO - Logging configured.
+2024-03-29 18:17:43,843 - root - INFO - Environment variables loaded.
+2024-03-29 18:17:43,843 - CommandHandler - INFO - Command 'add' registered.
+2024-03-29 18:17:43,843 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-29 18:17:43,844 - CommandHandler - INFO - Command 'divide' registered.
+2024-03-29 18:17:43,844 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-29 18:17:43,844 - CommandHandler - INFO - Command 'exit' registered.
+2024-03-29 18:17:43,844 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-29 18:17:43,844 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 18:17:43,844 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-29 18:17:43,844 - CommandHandler - INFO - Command 'multiply' registered.
+2024-03-29 18:17:43,844 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-29 18:17:43,845 - CommandHandler - INFO - Command 'subtract' registered.
+2024-03-29 18:17:43,845 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-29 18:17:43,846 - CommandHandler - INFO - Command 'clear' registered.
+2024-03-29 18:17:43,846 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2024-03-29 18:17:43,846 - CommandHandler - INFO - Command 'delete' registered.
+2024-03-29 18:17:43,846 - root - INFO - Command 'delete' from plugin 'delete' registered.
+2024-03-29 18:17:43,847 - CommandHandler - INFO - Command 'load' registered.
+2024-03-29 18:17:43,847 - root - INFO - Command 'load' from plugin 'load' registered.
+2024-03-29 18:17:43,847 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 18:17:43,847 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 18:17:43,847 - root - INFO - Application exit.
+2024-03-29 18:17:43,847 - root - INFO - Application shutdown.
+2024-03-29 18:17:43,850 - root - INFO - Logging configured.
+2024-03-29 18:17:43,851 - root - INFO - Environment variables loaded.
+2024-03-29 18:17:43,851 - CommandHandler - INFO - Command 'add' registered.
+2024-03-29 18:17:43,851 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-29 18:17:43,851 - CommandHandler - INFO - Command 'divide' registered.
+2024-03-29 18:17:43,851 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-29 18:17:43,851 - CommandHandler - INFO - Command 'exit' registered.
+2024-03-29 18:17:43,851 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-29 18:17:43,851 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 18:17:43,851 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-29 18:17:43,851 - CommandHandler - INFO - Command 'multiply' registered.
+2024-03-29 18:17:43,852 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-29 18:17:43,852 - CommandHandler - INFO - Command 'subtract' registered.
+2024-03-29 18:17:43,852 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-29 18:17:43,852 - CommandHandler - INFO - Command 'clear' registered.
+2024-03-29 18:17:43,852 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2024-03-29 18:17:43,852 - CommandHandler - INFO - Command 'delete' registered.
+2024-03-29 18:17:43,852 - root - INFO - Command 'delete' from plugin 'delete' registered.
+2024-03-29 18:17:43,852 - CommandHandler - INFO - Command 'load' registered.
+2024-03-29 18:17:43,852 - root - INFO - Command 'load' from plugin 'load' registered.
+2024-03-29 18:17:43,852 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 18:17:43,852 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 18:17:43,852 - CommandHandler - WARNING - No such command: unknown_command
+2024-03-29 18:17:43,852 - root - INFO - Application exit.
+2024-03-29 18:17:43,852 - root - INFO - Application shutdown.
+2024-03-29 18:17:43,856 - root - INFO - Logging configured.
+2024-03-29 18:17:43,856 - root - INFO - Environment variables loaded.
+2024-03-29 18:17:43,857 - CommandHandler - INFO - Command 'add' registered.
+2024-03-29 18:17:43,857 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-29 18:17:43,857 - CommandHandler - INFO - Command 'divide' registered.
+2024-03-29 18:17:43,857 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-29 18:17:43,857 - CommandHandler - INFO - Command 'exit' registered.
+2024-03-29 18:17:43,857 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-29 18:17:43,857 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 18:17:43,857 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-29 18:17:43,857 - CommandHandler - INFO - Command 'multiply' registered.
+2024-03-29 18:17:43,857 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-29 18:17:43,857 - CommandHandler - INFO - Command 'subtract' registered.
+2024-03-29 18:17:43,857 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-29 18:17:43,857 - CommandHandler - INFO - Command 'clear' registered.
+2024-03-29 18:17:43,857 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2024-03-29 18:17:43,858 - CommandHandler - INFO - Command 'delete' registered.
+2024-03-29 18:17:43,858 - root - INFO - Command 'delete' from plugin 'delete' registered.
+2024-03-29 18:17:43,858 - CommandHandler - INFO - Command 'load' registered.
+2024-03-29 18:17:43,858 - root - INFO - Command 'load' from plugin 'load' registered.
+2024-03-29 18:17:43,858 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 18:17:43,858 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 18:17:43,858 - CommandHandler - INFO - Executing command: menu with arguments: 
+2024-03-29 18:17:43,858 - root - INFO - Displaying the menu of available commands.
+2024-03-29 18:17:43,858 - root - INFO - Application exit.
+2024-03-29 18:17:43,858 - root - INFO - Application shutdown.
+2024-03-29 18:17:43,871 - root - INFO - Addition operation recorded successfully: 3.0 + 4.0 = 7.0
+2024-03-29 18:17:43,877 - root - INFO - Subtraction operation recorded successfully: 10.0 - 4.0 = 6.0
+2024-03-29 18:17:43,884 - root - INFO - Multiplication operation recorded successfully: 2.0 * 5.0 = 10.0
+2024-03-29 18:17:43,887 - root - INFO - 8.0 / 2.0 = 4.0
+2024-03-29 18:17:43,891 - root - INFO - Error: Division by zero.
+2024-03-29 18:19:33,629 - root - INFO - Logging configured.
+2024-03-29 18:19:33,630 - root - INFO - Environment variables loaded.
+2024-03-29 18:19:33,634 - root - INFO - Logging configured.
+2024-03-29 18:19:33,635 - root - INFO - Environment variables loaded.
+2024-03-29 18:19:33,635 - CommandHandler - INFO - Command 'add' registered.
+2024-03-29 18:19:33,636 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-29 18:19:33,636 - CommandHandler - INFO - Command 'divide' registered.
+2024-03-29 18:19:33,636 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-29 18:19:33,636 - CommandHandler - INFO - Command 'exit' registered.
+2024-03-29 18:19:33,636 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-29 18:19:33,637 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 18:19:33,637 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-29 18:19:33,637 - CommandHandler - INFO - Command 'multiply' registered.
+2024-03-29 18:19:33,637 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-29 18:19:33,637 - CommandHandler - INFO - Command 'subtract' registered.
+2024-03-29 18:19:33,637 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-29 18:19:33,638 - CommandHandler - INFO - Command 'clear' registered.
+2024-03-29 18:19:33,638 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2024-03-29 18:19:33,638 - CommandHandler - INFO - Command 'delete' registered.
+2024-03-29 18:19:33,638 - root - INFO - Command 'delete' from plugin 'delete' registered.
+2024-03-29 18:19:33,639 - CommandHandler - INFO - Command 'load' registered.
+2024-03-29 18:19:33,639 - root - INFO - Command 'load' from plugin 'load' registered.
+2024-03-29 18:19:33,639 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 18:19:33,639 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 18:19:33,639 - root - INFO - Application exit.
+2024-03-29 18:19:33,639 - root - INFO - Application shutdown.
+2024-03-29 18:19:33,643 - root - INFO - Logging configured.
+2024-03-29 18:19:33,643 - root - INFO - Environment variables loaded.
+2024-03-29 18:19:33,644 - CommandHandler - INFO - Command 'add' registered.
+2024-03-29 18:19:33,644 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-29 18:19:33,644 - CommandHandler - INFO - Command 'divide' registered.
+2024-03-29 18:19:33,644 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-29 18:19:33,644 - CommandHandler - INFO - Command 'exit' registered.
+2024-03-29 18:19:33,644 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-29 18:19:33,644 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 18:19:33,644 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-29 18:19:33,644 - CommandHandler - INFO - Command 'multiply' registered.
+2024-03-29 18:19:33,645 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-29 18:19:33,645 - CommandHandler - INFO - Command 'subtract' registered.
+2024-03-29 18:19:33,645 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-29 18:19:33,645 - CommandHandler - INFO - Command 'clear' registered.
+2024-03-29 18:19:33,645 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2024-03-29 18:19:33,645 - CommandHandler - INFO - Command 'delete' registered.
+2024-03-29 18:19:33,645 - root - INFO - Command 'delete' from plugin 'delete' registered.
+2024-03-29 18:19:33,645 - CommandHandler - INFO - Command 'load' registered.
+2024-03-29 18:19:33,645 - root - INFO - Command 'load' from plugin 'load' registered.
+2024-03-29 18:19:33,645 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 18:19:33,645 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 18:19:33,645 - CommandHandler - WARNING - No such command: unknown_command
+2024-03-29 18:19:33,646 - root - INFO - Application exit.
+2024-03-29 18:19:33,646 - root - INFO - Application shutdown.
+2024-03-29 18:19:33,650 - root - INFO - Logging configured.
+2024-03-29 18:19:33,650 - root - INFO - Environment variables loaded.
+2024-03-29 18:19:33,651 - CommandHandler - INFO - Command 'add' registered.
+2024-03-29 18:19:33,651 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-29 18:19:33,651 - CommandHandler - INFO - Command 'divide' registered.
+2024-03-29 18:19:33,651 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-29 18:19:33,651 - CommandHandler - INFO - Command 'exit' registered.
+2024-03-29 18:19:33,651 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-29 18:19:33,651 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 18:19:33,651 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-29 18:19:33,651 - CommandHandler - INFO - Command 'multiply' registered.
+2024-03-29 18:19:33,651 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-29 18:19:33,652 - CommandHandler - INFO - Command 'subtract' registered.
+2024-03-29 18:19:33,652 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-29 18:19:33,652 - CommandHandler - INFO - Command 'clear' registered.
+2024-03-29 18:19:33,652 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2024-03-29 18:19:33,652 - CommandHandler - INFO - Command 'delete' registered.
+2024-03-29 18:19:33,652 - root - INFO - Command 'delete' from plugin 'delete' registered.
+2024-03-29 18:19:33,652 - CommandHandler - INFO - Command 'load' registered.
+2024-03-29 18:19:33,652 - root - INFO - Command 'load' from plugin 'load' registered.
+2024-03-29 18:19:33,652 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 18:19:33,652 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 18:19:33,652 - CommandHandler - INFO - Executing command: menu with arguments: 
+2024-03-29 18:19:33,652 - root - INFO - Displaying the menu of available commands.
+2024-03-29 18:19:33,653 - root - INFO - Application exit.
+2024-03-29 18:19:33,653 - root - INFO - Application shutdown.
+2024-03-29 18:19:33,663 - root - INFO - Addition operation recorded successfully: 3.0 + 4.0 = 7.0
+2024-03-29 18:19:33,670 - root - INFO - Subtraction operation recorded successfully: 10.0 - 4.0 = 6.0
+2024-03-29 18:19:33,678 - root - INFO - Multiplication operation recorded successfully: 2.0 * 5.0 = 10.0
+2024-03-29 18:19:33,681 - root - INFO - 8.0 / 2.0 = 4.0
+2024-03-29 18:19:33,684 - root - INFO - Error: Division by zero.
