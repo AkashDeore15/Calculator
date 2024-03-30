@@ -22,7 +22,7 @@ class DeleteCommand(Command):
         # Attempt to delete the history record and provide feedback
         if history.delete_history(index):
             logging.info(f"Successfully deleted calculation history record at index: {index}.")
-            print(f"Record at index {index} successfully deleted.")
+            #print(f"Record at index {index} successfully deleted.")
         else:
             # In case of failure, log a warning. Assuming delete_history() handles its error messages internally
             logging.warning(f"Failed to delete calculation history record at index: {index}.")
