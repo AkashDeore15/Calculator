@@ -7,7 +7,11 @@ The Calculator application is a CLI-based Python project designed to perform ari
 
 - **Calculator Operations:** Supports basic operations such as Addition, Subtraction, Multiplication, and Division. The application's extendibility through the Factory Pattern allows easy addition of more complex operations without altering core logic.
 
-- **History Management:** Efficient management of calculation history by storing, retrieving, and deleting records, leveraging the power of Pandas for data handling.
+- **History Management:** Manages calculation history with advanced features:
+    - **Loading History**: Users can load previous calculations to review or reuse results.
+    - **Deleting History by Index**: Offers the capability to delete specific calculations from history, enhancing data management.
+    - **Clearing History**: Provides the option to clear the entire history, useful for starting a new session or maintaining privacy.
+    - **Saving in CSV**: Utilizes Pandas DataFrames to store and manage history efficiently in a CSV file, ensuring data persistence and easy access.
 
 - **Configuration via Environment Variables:** Offers flexible application configuration, adjusting operational parameters such as application modes and logging levels through environment variables.
 
@@ -39,13 +43,20 @@ These features collectively make the Calculator Application a powerful, extendib
 To run the Calculator Application, execute the following command from the project root directory: python main.py
 
 To use the calculator, run the script with the desired operation and operands:
-python calculator.py add 5 3
-python calculator.py subtract 10 4
-python calculator.py multiply 6 7
-python calculator.py divide 8 2
-python calculator.py load
-python calculator.py delete (index)
-python calculator.py clear
+
+-python calculator.py add 5 3
+
+-python calculator.py subtract 10 4
+
+-python calculator.py multiply 6 7
+
+-python calculator.py divide 8 2
+
+-python calculator.py load
+
+-python calculator.py delete (index)
+
+-python calculator.py clear
 
 ## Configuration
 - **Environment Variables**: Customize the application behavior through the `.env` file. This file can be used to set various operational parameters such as debug mode, application port, etc.
