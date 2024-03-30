@@ -6,10 +6,10 @@ The Calculator application is a CLI-based Python project designed to perform ari
 ## Features
 
 - **Calculator Operations:** The Calculator Application supports a range of basic to complex mathematical operations. Utilizing the Factory Pattern for its extendibility, the application allows for the seamless addition of new operations without the need to modify the core logic. Supported operations include:
-- **Addition:** Combines two or more numbers into a single sum.
-- **Subtraction:** Calculates the difference between numbers.
-- **Multiplication:** Computes the product of two or more numbers.
-- **Division:** Divides one number by another, returning the quotient.
+    - **Addition:** Combines two or more numbers into a single sum.
+    - **Subtraction:** Calculates the difference between numbers.
+    - **Multiplication:** Computes the product of two or more numbers.
+    - **Division:** Divides one number by another, returning the quotient.
 
 - **History Management:** Manages calculation history with advanced features:
     - **Loading History**: Users can load previous calculations to review or reuse results.
@@ -92,8 +92,31 @@ Adopting environment variables for configuration aligns with industry best pract
 
 
 ## Testing
-Run the unit tests to ensure the application is working as expected: pytest
-Test files are located in the tests directory, and test results are recorded for analysis.
+
+In developing the Calculator Application, I've prioritized ensuring that each piece of functionality not only works in isolation but also integrates seamlessly with other parts of the application. To achieve this, I've implemented a comprehensive testing strategy, encompassing both unit and integration testing.
+
+### Unit Testing
+
+For unit testing, I focus on the smallest parts of the application:
+
+- **Mathematical Operations**: I've written tests for each mathematical operation (add, subtract, multiply, divide) to cover a range of inputs, including edge cases. This ensures each operation performs correctly under any given scenario.
+- **Input Parsing**: Considering the diverse inputs the application can handle, I've created unit tests to verify that the parsing logic accurately interprets user commands and expressions. These tests help me quickly identify and fix any parsing issues.
+- **Utility Functions**: I also test utility functions, such as those for managing calculation history or reading environment variables. These tests confirm that these utilities behave as expected across different conditions.
+
+I run these unit tests using `pytest`, which allows me to get immediate feedback on the code I write or modify.
+
+### Integration Testing
+
+Integration testing allows me to examine how different parts of the application work together:
+
+- **End-to-End Calculation Workflow**: I simulate user interactions from input to output, ensuring the entire calculation process, including history management, functions as a cohesive unit.
+- **Environment and Configuration**: I test the application's response to various environment settings, like different logging levels or history file paths set through environment variables, to guarantee it adapts correctly to different operating conditions.
+- **Error Handling and Edge Cases**: I've crafted tests to see how the application manages invalid inputs or commands, focusing on maintaining stability and providing clear feedback to the user without crashing.
+
+To streamline my development process, I integrate these tests into a Continuous Integration (CI) pipeline, automatically running them against every commit. This not only helps in maintaining high code quality but also ensures that the application is robust and user-friendly.
+
+By employing both unit and integration tests, I ensure that every component of my Calculator Application not only performs its intended function accurately but also interacts perfectly with other components. This dual approach to testing forms the backbone of my quality assurance process, allowing me to build a reliable and effective application.
+
 
 ## Architecture and Design Patterns
 
