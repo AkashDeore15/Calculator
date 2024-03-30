@@ -12,7 +12,8 @@ disable= unused-argument,
          redefined-outer-name,
          pointless-string-statement,
          trailing-whitespace,
-         unused-variable
+         unused-variable,
+         protected-access
 
 
 [REPORTS]
@@ -23,7 +24,7 @@ output-format=colorized
 reports=yes
 
 # Put a full report at the end of the file
-#report-full=no
+report-full=no
 
 [DESIGN]
 # Maximum number of parents for a class (see R0901).
