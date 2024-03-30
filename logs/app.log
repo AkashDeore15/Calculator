@@ -3096,3 +3096,29 @@ ValueError: could not convert string to float: 'a'
 2024-03-29 22:18:49,405 - root - WARNING - Multiply command requires exactly two arguments.
 2024-03-29 22:18:49,437 - root - INFO - Attempting to delete calculation history record at index: 999.
 2024-03-29 22:18:49,447 - root - INFO - Attempting to load calculation history.
+2024-03-29 22:41:51,963 - root - INFO - Logging configured.
+2024-03-29 22:41:51,968 - root - INFO - Environment variables loaded.
+2024-03-29 22:41:53,139 - CommandHandler - INFO - Command 'add' registered.
+2024-03-29 22:41:53,139 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-29 22:41:53,140 - CommandHandler - INFO - Command 'divide' registered.
+2024-03-29 22:41:53,140 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-29 22:41:53,140 - CommandHandler - INFO - Command 'exit' registered.
+2024-03-29 22:41:53,140 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-29 22:41:53,141 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 22:41:53,141 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-29 22:41:53,141 - CommandHandler - INFO - Command 'multiply' registered.
+2024-03-29 22:41:53,141 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-29 22:41:53,142 - CommandHandler - INFO - Command 'subtract' registered.
+2024-03-29 22:41:53,142 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-29 22:41:53,143 - CommandHandler - INFO - Command 'clear' registered.
+2024-03-29 22:41:53,143 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2024-03-29 22:41:53,144 - CommandHandler - INFO - Command 'delete' registered.
+2024-03-29 22:41:53,144 - root - INFO - Command 'delete' from plugin 'delete' registered.
+2024-03-29 22:41:53,145 - CommandHandler - INFO - Command 'load' registered.
+2024-03-29 22:41:53,145 - root - INFO - Command 'load' from plugin 'load' registered.
+2024-03-29 22:41:53,145 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-29 22:41:53,145 - CommandHandler - INFO - Command 'menu' registered.
+2024-03-29 22:41:56,008 - CommandHandler - INFO - Executing command: menu with arguments: 
+2024-03-29 22:41:56,008 - root - INFO - Displaying the menu of available commands.
+2024-03-29 22:56:46,956 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-29 22:56:46,957 - root - INFO - Application shutdown.
