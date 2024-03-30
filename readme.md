@@ -4,11 +4,15 @@
 The Calculator application is a CLI-based Python project designed to perform arithmetic operations. It showcases the use of design patterns, environment variables for configuration, structured logging, and demonstrates error handling principles such as "Look Before You Leap" (LBYL) and "Easier to Ask for Forgiveness than Permission" (EAFP).
 
 ## Features
-### Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
-### Implement design patterns like Command and Singleton for managing commands and calculation history.
-### Configure application behavior through environment variables.
-### Detailed logging for operation tracking and debugging.
-### Robust error handling showcasing LBYL and EAFP principles.
+- **Perform basic arithmetic operations: 
+- **Implement design patterns like Command and Singleton for managing commands and calculation history.
+- **Configure application behavior through environment variables.
+- **Detailed logging for operation tracking and debugging.
+- **Robust error handling showcasing LBYL and EAFP principles.
+- **Calculator Operations:** Addition, Subtraction, Multiplication, and Division.
+- **History Management:** Effective History management by storing, retreiving and deleting records using Pandas.
+- **Configuration via Environment Variables:** Flexible application configuration.
+- **REPL Interface:** ser-friendly command-line interface.
 ### Configuration Examples
 To configure the application, set the environment variables in your shell or within a .env file:
 export CALC_HISTORY_PATH="./calc_history.csv"
