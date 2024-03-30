@@ -1,21 +1,34 @@
-import sys
 import logging
 from app.commands import Command
+from app.calculation_history import CalculationHistory
 
 class DivideCommand(Command):
     def execute(self, args):
+        args_list = args.split()
+        
         if not args:
-            logging.info("Usage: divide <number1> <number2>")
+            logging.warning("Divide command invoked without arguments.")
             print("Usage: divide <number1> <number2>")
             return
+        
+        if len(args_list) != 2:
+            logging.warning("Divide command requires exactly two arguments.")
+            print("Usage: divide <number1> <number2>")
+            return
+
         try:
-            a, b = map(float, args.split())
+            a, b = map(float, args_list)
             if b == 0:
-                logging.info("Error: Division by zero.")
-                print("Error: Division by zero.")
-            else:
-                logging.info(f"{a} / {b} = {a / b}")
-                print(f"{a} / {b} = {a / b}")
+                logging.warning("Attempted division by zero.")
+                print("Error: Division by zero is not allowed.")
+                return
+
+            result = a / b
+            print(f"{a} / {b} = {result}")
+            logging.debug(f"Recording division to history: {a} / {b} = {result}")
+            CalculationHistory().add_record(f"{a} / {b}", result)
+            logging.info(f"Division operation recorded successfully: {a} / {b} = {result}")
+
         except ValueError:
-            logging.info("Error: Please provide two numbers separated by a space.")
+            logging.error("Divide command received invalid arguments.")
             print("Error: Please provide two numbers separated by a space.")
