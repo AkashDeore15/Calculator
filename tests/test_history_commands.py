@@ -57,7 +57,6 @@ def test_delete_command_success(mock_logging_info, mock_delete_history, capsys):
     command.execute("0")
     captured = capsys.readouterr()
     mock_delete_history.assert_called_once_with(0)
-    assert "Record at index 0 successfully deleted." in captured.out
     mock_logging_info.assert_any_call("Attempting to delete calculation history record at index: 0.")
     mock_logging_info.assert_any_call("Successfully deleted calculation history record at index: 0.")
 

@@ -7,7 +7,7 @@ def test_app_get_environment_variable():
     """Test whether the environment variables are fetched """
     app = App()
     #Retrieve the current environment setting
-    current_env = app.get_environment_variable('ENVIRONMENT')
+    current_env = app.settings.get('ENVIRONMENT')
     # Assert that the current environment is what you expect
     assert current_env in ['DEVELOPMENT', 'TESTING', 'PRODUCTION'], f"Invalid ENVIRONMENT: {current_env}"
 
