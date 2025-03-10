@@ -1,3 +1,4 @@
+""" This module configures the logging for the application. """
 import logging
 import os
 
