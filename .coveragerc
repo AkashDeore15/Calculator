@@ -1,0 +1,5 @@
+[run]
+source = calculator
+omit = 
+    */test_*.py
+    */conftest.py
