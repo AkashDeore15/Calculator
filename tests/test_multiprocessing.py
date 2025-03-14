@@ -2,8 +2,8 @@
 from decimal import Decimal
 from unittest.mock import patch, MagicMock
 import pytest
-from src.commands import AddCommand, MultiplyCommand
-from src.multiprocessing_handler import MultiprocessingHandler
+from calculator.commands import AddCommand, MultiplyCommand
+from calculator.multiprocessing_handler import MultiprocessingHandler
 
 def test_multiprocessing_add():
     """Test multiprocessing with add command."""

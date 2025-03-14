@@ -4,8 +4,8 @@ This module contains the tests for the calculator operations and calculation cla
 # pylint: disable=unnecessary-dunder-call, invalid-name
 from decimal import Decimal
 import pytest
-from src.operations import add, divide
-from src.calculation import Calculation
+from calculator.operations import add, divide
+from calculator.calculation import Calculation
 
 def test_calculation(a, b, operation, expected):
     """Test the Calculation class with various operations."""

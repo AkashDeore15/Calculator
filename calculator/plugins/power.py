@@ -1,5 +1,5 @@
 from decimal import Decimal
-from src.commands import Command
+from calculator.commands import Command
 
 class PowerCommand(Command):
     def __init__(self, base: Decimal, exponent: Decimal):

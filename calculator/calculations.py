@@ -1,5 +1,5 @@
 from typing import Callable, List
-from src.calculation import Calculation
+from calculator.calculation import Calculation
 
 class Calculations:
     history: List[Calculation] = []

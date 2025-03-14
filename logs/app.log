@@ -1,0 +1,96 @@
+2025-03-14 19:47:37,794 - calculator - INFO - Logging configured for calculator application
+2025-03-14 19:47:37,798 - calculator - INFO - Calculator application started
+2025-03-14 19:47:37,799 - calculator.command_handler - INFO - Initializing CommandHandler
+2025-03-14 19:47:37,799 - calculator.command_handler - INFO - Loading plugins
+2025-03-14 19:47:37,800 - calculator.command_handler - INFO - Found 1 potential plugin files
+2025-03-14 19:47:37,800 - calculator.command_handler - INFO - Attempting to load plugin: power
+2025-03-14 19:47:37,801 - calculator.command_handler - INFO - Successfully loaded plugin command: power
+2025-03-14 19:47:37,802 - calculator - INFO - Command handler initialized
+2025-03-14 19:47:37,802 - calculator - INFO - Menu displayed at startup
+2025-03-14 19:47:37,803 - calculator - INFO - User input: add 5 3
+2025-03-14 19:47:37,803 - calculator - INFO - Command: add, Args: ['5', '3']
+2025-03-14 19:47:37,803 - calculator - INFO - Executing add command with args ['5', '3']
+2025-03-14 19:47:37,804 - calculator.multiprocessing - INFO - Running command asynchronously: AddCommand
+2025-03-14 19:47:37,831 - calculator.multiprocessing - INFO - Command completed successfully with result: 8
+2025-03-14 19:47:37,832 - calculator - INFO - Command result: 8
+2025-03-14 19:47:37,833 - calculator - INFO - User input: exit
+2025-03-14 19:47:37,833 - calculator - INFO - User exited the application
+2025-03-14 19:47:37,844 - calculator - INFO - Logging configured for calculator application
+2025-03-14 19:47:37,845 - calculator - INFO - Calculator application started
+2025-03-14 19:47:37,845 - calculator.command_handler - INFO - Initializing CommandHandler
+2025-03-14 19:47:37,845 - calculator.command_handler - INFO - Loading plugins
+2025-03-14 19:47:37,846 - calculator.command_handler - INFO - Found 1 potential plugin files
+2025-03-14 19:47:37,846 - calculator.command_handler - INFO - Attempting to load plugin: power
+2025-03-14 19:47:37,847 - calculator.command_handler - INFO - Successfully loaded plugin command: power
+2025-03-14 19:47:37,847 - calculator - INFO - Command handler initialized
+2025-03-14 19:47:37,848 - calculator - INFO - Menu displayed at startup
+2025-03-14 19:47:37,849 - calculator - INFO - User input: subtract 10 4
+2025-03-14 19:47:37,849 - calculator - INFO - Command: subtract, Args: ['10', '4']
+2025-03-14 19:47:37,850 - calculator - INFO - Executing subtract command with args ['10', '4']
+2025-03-14 19:47:37,851 - calculator.multiprocessing - INFO - Running command asynchronously: SubtractCommand
+2025-03-14 19:47:37,877 - calculator.multiprocessing - INFO - Command completed successfully with result: 6
+2025-03-14 19:47:37,878 - calculator - INFO - Command result: 6
+2025-03-14 19:47:37,878 - calculator - INFO - User input: exit
+2025-03-14 19:47:37,879 - calculator - INFO - User exited the application
+2025-03-14 19:47:37,888 - calculator - INFO - Logging configured for calculator application
+2025-03-14 19:47:37,889 - calculator - INFO - Calculator application started
+2025-03-14 19:47:37,889 - calculator.command_handler - INFO - Initializing CommandHandler
+2025-03-14 19:47:37,890 - calculator.command_handler - INFO - Loading plugins
+2025-03-14 19:47:37,890 - calculator.command_handler - INFO - Found 1 potential plugin files
+2025-03-14 19:47:37,891 - calculator.command_handler - INFO - Attempting to load plugin: power
+2025-03-14 19:47:37,891 - calculator.command_handler - INFO - Successfully loaded plugin command: power
+2025-03-14 19:47:37,892 - calculator - INFO - Command handler initialized
+2025-03-14 19:47:37,892 - calculator - INFO - Menu displayed at startup
+2025-03-14 19:47:37,893 - calculator - INFO - User input: add invalid 3
+2025-03-14 19:47:37,893 - calculator - INFO - Command: add, Args: ['invalid', '3']
+2025-03-14 19:47:37,893 - calculator - ERROR - Failed to create command object
+2025-03-14 19:47:37,893 - calculator - INFO - User input: exit
+2025-03-14 19:47:37,894 - calculator - INFO - User exited the application
+2025-03-14 19:47:37,911 - calculator - INFO - Logging configured for calculator application
+2025-03-14 19:47:37,912 - calculator - INFO - Calculator application started
+2025-03-14 19:47:37,912 - calculator.command_handler - INFO - Initializing CommandHandler
+2025-03-14 19:47:37,913 - calculator.command_handler - INFO - Loading plugins
+2025-03-14 19:47:37,914 - calculator.command_handler - INFO - Found 1 potential plugin files
+2025-03-14 19:47:37,914 - calculator.command_handler - INFO - Attempting to load plugin: power
+2025-03-14 19:47:37,915 - calculator.command_handler - INFO - Successfully loaded plugin command: power
+2025-03-14 19:47:37,915 - calculator - INFO - Command handler initialized
+2025-03-14 19:47:37,920 - calculator - INFO - Menu displayed at startup
+2025-03-14 19:47:37,921 - calculator - INFO - User input: menu
+2025-03-14 19:47:37,922 - calculator - INFO - Command: menu, Args: []
+2025-03-14 19:47:37,923 - calculator - INFO - Menu displayed
+2025-03-14 19:47:37,923 - calculator - INFO - User input: exit
+2025-03-14 19:47:37,924 - calculator - INFO - User exited the application
+2025-03-14 19:47:37,945 - calculator - INFO - Logging configured for calculator application
+2025-03-14 19:47:37,946 - calculator - INFO - Calculator application started
+2025-03-14 19:47:37,946 - calculator.command_handler - INFO - Initializing CommandHandler
+2025-03-14 19:47:37,946 - calculator.command_handler - INFO - Loading plugins
+2025-03-14 19:47:37,947 - calculator.command_handler - INFO - Found 1 potential plugin files
+2025-03-14 19:47:37,947 - calculator.command_handler - INFO - Attempting to load plugin: power
+2025-03-14 19:47:37,947 - calculator.command_handler - INFO - Successfully loaded plugin command: power
+2025-03-14 19:47:37,948 - calculator - INFO - Command handler initialized
+2025-03-14 19:47:37,948 - calculator - INFO - Menu displayed at startup
+2025-03-14 19:47:37,949 - calculator - INFO - User input: unknown_cmd
+2025-03-14 19:47:37,949 - calculator - INFO - Command: unknown_cmd, Args: []
+2025-03-14 19:47:37,949 - calculator - WARNING - Unknown command: unknown_cmd
+2025-03-14 19:47:37,950 - calculator - INFO - User input: exit
+2025-03-14 19:47:37,950 - calculator - INFO - User exited the application
+2025-03-14 19:47:37,969 - calculator.multiprocessing - INFO - Running command asynchronously: AddCommand
+2025-03-14 19:47:38,024 - calculator.multiprocessing - INFO - Command completed successfully with result: 8
+2025-03-14 19:47:38,031 - calculator.multiprocessing - INFO - Running command asynchronously: MultiplyCommand
+2025-03-14 19:47:38,057 - calculator.multiprocessing - INFO - Command completed successfully with result: 28
+2025-03-14 19:47:38,065 - calculator.multiprocessing - INFO - Running command asynchronously: ErrorCommand
+2025-03-14 19:47:38,077 - calculator.multiprocessing - ERROR - Error executing command: Test error
+2025-03-14 19:47:38,091 - calculator.multiprocessing - ERROR - Command failed with error: Test error
+2025-03-14 19:47:38,102 - calculator.multiprocessing - INFO - Running command asynchronously: MagicMock
+2025-03-14 19:47:38,105 - calculator.multiprocessing - ERROR - Command execution failed: Empty result queue
+2025-03-14 19:47:38,111 - calculator.multiprocessing - ERROR - Error executing command: Test error
+2025-03-14 19:47:38,150 - calculator.command_handler - INFO - Initializing CommandHandler
+2025-03-14 19:47:38,150 - calculator.command_handler - INFO - Loading plugins
+2025-03-14 19:47:38,151 - calculator.command_handler - INFO - Found 1 potential plugin files
+2025-03-14 19:47:38,151 - calculator.command_handler - INFO - Attempting to load plugin: power
+2025-03-14 19:47:38,152 - calculator.command_handler - INFO - Successfully loaded plugin command: power
+2025-03-14 19:47:38,157 - calculator.command_handler - INFO - Initializing CommandHandler
+2025-03-14 19:47:38,158 - calculator.command_handler - INFO - Loading plugins
+2025-03-14 19:47:38,159 - calculator.command_handler - INFO - Found 1 potential plugin files
+2025-03-14 19:47:38,159 - calculator.command_handler - INFO - Attempting to load plugin: power
+2025-03-14 19:47:38,160 - calculator.command_handler - INFO - Successfully loaded plugin command: power

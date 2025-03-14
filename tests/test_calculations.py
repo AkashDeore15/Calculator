@@ -1,9 +1,9 @@
 """Tests for the Calculations class."""
 from decimal import Decimal
 import pytest
-from src.calculation import Calculation
-from src.calculations import Calculations
-from src.operations import add, subtract
+from calculator.calculation import Calculation
+from calculator.calculations import Calculations
+from calculator.operations import add, subtract
 
 @pytest.fixture
 def setup_calculation():

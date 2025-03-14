@@ -1,8 +1,8 @@
 """Tests for the CommandHandler class."""
 from unittest.mock import patch, MagicMock
 from decimal import Decimal
-from src.command_handler import CommandHandler
-from src.commands import Command, AddCommand
+from calculator.command_handler import CommandHandler
+from calculator.commands import Command, AddCommand
 
 class TestPluginCommand(Command):
     """A test plugin command for testing."""

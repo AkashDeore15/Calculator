@@ -6,8 +6,8 @@ The tests cover the AddCommand, SubtractCommand, MultiplyCommand, DivideCommand,
 from decimal import Decimal
 from unittest.mock import patch
 import pytest
-from src.commands import AddCommand, SubtractCommand, MultiplyCommand, DivideCommand
-from src.command_handler import CommandHandler
+from calculator.commands import AddCommand, SubtractCommand, MultiplyCommand, DivideCommand
+from calculator.command_handler import CommandHandler
 
 def test_add_command():
     """Test the AddCommand."""

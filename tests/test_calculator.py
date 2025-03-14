@@ -1,6 +1,6 @@
 '''My Calculator Test'''
 from decimal import Decimal
-from src.operations import add, subtract, multiply, divide
+from calculator.operations import add, subtract, multiply, divide
 
 # pylint: disable=unnecessary-dunder-call, invalid-name
 def test_addition():

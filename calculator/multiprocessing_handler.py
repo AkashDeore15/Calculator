@@ -2,7 +2,7 @@
 import multiprocessing
 import logging
 from decimal import Decimal
-from src.commands import Command
+from calculator.commands import Command
 
 logger = logging.getLogger('calculator.multiprocessing')
 class MultiprocessingHandler:

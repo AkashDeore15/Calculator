@@ -3,7 +3,7 @@
 from decimal import Decimal
 import pytest
 from faker import Faker
-from src.operations import add, subtract, multiply, divide
+from calculator.operations import add, subtract, multiply, divide
 
 fake = Faker()
 # pylint disable=comaparison-with-callable

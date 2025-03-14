@@ -1,6 +1,6 @@
 """Tests for the env_config module."""
 from unittest.mock import patch
-from src.env_config import load_environment
+from calculator.env_config import load_environment
 
 # def test_load_environment():
 #     """Test load_environment function."""

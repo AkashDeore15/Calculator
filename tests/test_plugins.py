@@ -1,8 +1,8 @@
 """Tests for the plugin system."""
 from decimal import Decimal
 import pytest
-from src.command_handler import CommandHandler
-from src.plugins.power import PowerCommand
+from calculator.command_handler import CommandHandler
+from calculator.plugins.power import PowerCommand
 
 def test_plugin_loading():
     """Test that plugins are loaded correctly."""

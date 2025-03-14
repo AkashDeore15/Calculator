@@ -1,8 +1,8 @@
 from decimal import Decimal
 from typing import Callable
-from src.calculations import Calculations
-from src.operations import add, subtract, multiply, divide
-from src.calculation import Calculation
+from calculator.calculations import Calculations
+from calculator.operations import add, subtract, multiply, divide
+from calculator.calculation import Calculation
 
 class Calculator:
     
