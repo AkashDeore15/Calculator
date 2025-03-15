@@ -6,7 +6,7 @@ import pkgutil
 import sys
 from dotenv import load_dotenv
 
-# Importing command classes
+# Importing  command classes
 from app.commands import CommandHandler
 from app.plugins.menu import MenuCommand
 

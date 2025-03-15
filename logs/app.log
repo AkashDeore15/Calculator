@@ -1,0 +1,178 @@
+2025-03-15 15:42:36,078 - root - INFO - Logging configured.
+2025-03-15 15:42:36,079 - root - INFO - Environment variables loaded.
+2025-03-15 15:42:36,085 - root - INFO - Logging configured.
+2025-03-15 15:42:36,086 - root - INFO - Environment variables loaded.
+2025-03-15 15:42:36,086 - CommandHandler - INFO - Command 'clear' registered.
+2025-03-15 15:42:36,087 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2025-03-15 15:42:36,088 - CommandHandler - INFO - Command 'delete' registered.
+2025-03-15 15:42:36,090 - root - INFO - Command 'delete' from plugin 'delete' registered.
+2025-03-15 15:42:36,090 - CommandHandler - INFO - Command 'load' registered.
+2025-03-15 15:42:36,091 - root - INFO - Command 'load' from plugin 'load' registered.
+2025-03-15 15:42:36,091 - CommandHandler - INFO - Command 'add' registered.
+2025-03-15 15:42:36,091 - root - INFO - Command 'add' from plugin 'add' registered.
+2025-03-15 15:42:36,092 - CommandHandler - INFO - Command 'divide' registered.
+2025-03-15 15:42:36,092 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2025-03-15 15:42:36,092 - CommandHandler - INFO - Command 'exit' registered.
+2025-03-15 15:42:36,092 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2025-03-15 15:42:36,093 - CommandHandler - INFO - Command 'menu' registered.
+2025-03-15 15:42:36,093 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2025-03-15 15:42:36,093 - CommandHandler - INFO - Command 'multiply' registered.
+2025-03-15 15:42:36,093 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2025-03-15 15:42:36,094 - CommandHandler - INFO - Command 'subtract' registered.
+2025-03-15 15:42:36,094 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2025-03-15 15:42:36,094 - CommandHandler - INFO - Command 'menu' registered.
+2025-03-15 15:42:36,094 - root - INFO - Application exit.
+2025-03-15 15:42:36,095 - root - INFO - Application shutdown.
+2025-03-15 15:42:36,103 - root - INFO - Logging configured.
+2025-03-15 15:42:36,105 - root - INFO - Environment variables loaded.
+2025-03-15 15:42:36,106 - CommandHandler - INFO - Command 'clear' registered.
+2025-03-15 15:42:36,106 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2025-03-15 15:42:36,106 - CommandHandler - INFO - Command 'delete' registered.
+2025-03-15 15:42:36,107 - root - INFO - Command 'delete' from plugin 'delete' registered.
+2025-03-15 15:42:36,107 - CommandHandler - INFO - Command 'load' registered.
+2025-03-15 15:42:36,107 - root - INFO - Command 'load' from plugin 'load' registered.
+2025-03-15 15:42:36,108 - CommandHandler - INFO - Command 'add' registered.
+2025-03-15 15:42:36,108 - root - INFO - Command 'add' from plugin 'add' registered.
+2025-03-15 15:42:36,108 - CommandHandler - INFO - Command 'divide' registered.
+2025-03-15 15:42:36,108 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2025-03-15 15:42:36,109 - CommandHandler - INFO - Command 'exit' registered.
+2025-03-15 15:42:36,109 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2025-03-15 15:42:36,110 - CommandHandler - INFO - Command 'menu' registered.
+2025-03-15 15:42:36,110 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2025-03-15 15:42:36,111 - CommandHandler - INFO - Command 'multiply' registered.
+2025-03-15 15:42:36,111 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2025-03-15 15:42:36,111 - CommandHandler - INFO - Command 'subtract' registered.
+2025-03-15 15:42:36,112 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2025-03-15 15:42:36,112 - CommandHandler - INFO - Command 'menu' registered.
+2025-03-15 15:42:36,112 - CommandHandler - WARNING - No such command: unknown_command
+2025-03-15 15:42:36,113 - root - INFO - Application exit.
+2025-03-15 15:42:36,113 - root - INFO - Application shutdown.
+2025-03-15 15:42:36,128 - root - INFO - Logging configured.
+2025-03-15 15:42:36,130 - root - INFO - Environment variables loaded.
+2025-03-15 15:42:36,138 - CommandHandler - INFO - Command 'clear' registered.
+2025-03-15 15:42:36,139 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2025-03-15 15:42:36,140 - CommandHandler - INFO - Command 'delete' registered.
+2025-03-15 15:42:36,140 - root - INFO - Command 'delete' from plugin 'delete' registered.
+2025-03-15 15:42:36,141 - CommandHandler - INFO - Command 'load' registered.
+2025-03-15 15:42:36,141 - root - INFO - Command 'load' from plugin 'load' registered.
+2025-03-15 15:42:36,141 - CommandHandler - INFO - Command 'add' registered.
+2025-03-15 15:42:36,142 - root - INFO - Command 'add' from plugin 'add' registered.
+2025-03-15 15:42:36,142 - CommandHandler - INFO - Command 'divide' registered.
+2025-03-15 15:42:36,143 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2025-03-15 15:42:36,143 - CommandHandler - INFO - Command 'exit' registered.
+2025-03-15 15:42:36,143 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2025-03-15 15:42:36,144 - CommandHandler - INFO - Command 'menu' registered.
+2025-03-15 15:42:36,144 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2025-03-15 15:42:36,144 - CommandHandler - INFO - Command 'multiply' registered.
+2025-03-15 15:42:36,145 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2025-03-15 15:42:36,145 - CommandHandler - INFO - Command 'subtract' registered.
+2025-03-15 15:42:36,145 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2025-03-15 15:42:36,146 - CommandHandler - INFO - Command 'menu' registered.
+2025-03-15 15:42:36,146 - CommandHandler - INFO - Executing command: menu with arguments: 
+2025-03-15 15:42:36,146 - root - INFO - Displaying the menu of available commands.
+2025-03-15 15:42:36,147 - root - INFO - Application exit.
+2025-03-15 15:42:36,147 - root - INFO - Application shutdown.
+2025-03-15 15:42:36,313 - root - WARNING - Add command invoked without arguments.
+2025-03-15 15:42:36,319 - root - WARNING - Add command requires exactly two arguments.
+2025-03-15 15:42:36,332 - root - ERROR - Add command received invalid arguments.
+Traceback (most recent call last):
+  File "/root/Calculator/app/plugins/add/__init__.py", line 20, in execute
+    a, b = map(float, args_list)
+    ^^^^
+ValueError: could not convert string to float: 'a'
+2025-03-15 15:42:36,351 - root - INFO - Addition operation recorded successfully: 1.0 + 2.0 = 3.0
+2025-03-15 15:42:36,362 - root - WARNING - Subtract command invoked without arguments.
+2025-03-15 15:42:36,370 - root - WARNING - Subtract command requires exactly two arguments.
+2025-03-15 15:42:36,529 - root - WARNING - Multiply command invoked without arguments.
+2025-03-15 15:42:36,536 - root - WARNING - Multiply command requires exactly two arguments.
+2025-03-15 15:42:36,643 - root - INFO - Attempting to delete calculation history record at index: 999.
+2025-03-15 15:42:36,680 - root - INFO - Attempting to load calculation history.
+2025-03-15 15:43:40,608 - root - INFO - Logging configured.
+2025-03-15 15:43:40,611 - root - INFO - Environment variables loaded.
+2025-03-15 15:43:40,618 - root - INFO - Logging configured.
+2025-03-15 15:43:40,619 - root - INFO - Environment variables loaded.
+2025-03-15 15:43:40,620 - CommandHandler - INFO - Command 'clear' registered.
+2025-03-15 15:43:40,620 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2025-03-15 15:43:40,620 - CommandHandler - INFO - Command 'delete' registered.
+2025-03-15 15:43:40,621 - root - INFO - Command 'delete' from plugin 'delete' registered.
+2025-03-15 15:43:40,621 - CommandHandler - INFO - Command 'load' registered.
+2025-03-15 15:43:40,622 - root - INFO - Command 'load' from plugin 'load' registered.
+2025-03-15 15:43:40,622 - CommandHandler - INFO - Command 'add' registered.
+2025-03-15 15:43:40,623 - root - INFO - Command 'add' from plugin 'add' registered.
+2025-03-15 15:43:40,623 - CommandHandler - INFO - Command 'divide' registered.
+2025-03-15 15:43:40,624 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2025-03-15 15:43:40,624 - CommandHandler - INFO - Command 'exit' registered.
+2025-03-15 15:43:40,626 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2025-03-15 15:43:40,627 - CommandHandler - INFO - Command 'menu' registered.
+2025-03-15 15:43:40,627 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2025-03-15 15:43:40,628 - CommandHandler - INFO - Command 'multiply' registered.
+2025-03-15 15:43:40,628 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2025-03-15 15:43:40,629 - CommandHandler - INFO - Command 'subtract' registered.
+2025-03-15 15:43:40,630 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2025-03-15 15:43:40,631 - CommandHandler - INFO - Command 'menu' registered.
+2025-03-15 15:43:40,632 - root - INFO - Application exit.
+2025-03-15 15:43:40,632 - root - INFO - Application shutdown.
+2025-03-15 15:43:40,654 - root - INFO - Logging configured.
+2025-03-15 15:43:40,656 - root - INFO - Environment variables loaded.
+2025-03-15 15:43:40,657 - CommandHandler - INFO - Command 'clear' registered.
+2025-03-15 15:43:40,658 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2025-03-15 15:43:40,658 - CommandHandler - INFO - Command 'delete' registered.
+2025-03-15 15:43:40,659 - root - INFO - Command 'delete' from plugin 'delete' registered.
+2025-03-15 15:43:40,659 - CommandHandler - INFO - Command 'load' registered.
+2025-03-15 15:43:40,660 - root - INFO - Command 'load' from plugin 'load' registered.
+2025-03-15 15:43:40,660 - CommandHandler - INFO - Command 'add' registered.
+2025-03-15 15:43:40,661 - root - INFO - Command 'add' from plugin 'add' registered.
+2025-03-15 15:43:40,661 - CommandHandler - INFO - Command 'divide' registered.
+2025-03-15 15:43:40,662 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2025-03-15 15:43:40,662 - CommandHandler - INFO - Command 'exit' registered.
+2025-03-15 15:43:40,663 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2025-03-15 15:43:40,663 - CommandHandler - INFO - Command 'menu' registered.
+2025-03-15 15:43:40,664 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2025-03-15 15:43:40,665 - CommandHandler - INFO - Command 'multiply' registered.
+2025-03-15 15:43:40,669 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2025-03-15 15:43:40,670 - CommandHandler - INFO - Command 'subtract' registered.
+2025-03-15 15:43:40,670 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2025-03-15 15:43:40,670 - CommandHandler - INFO - Command 'menu' registered.
+2025-03-15 15:43:40,671 - CommandHandler - WARNING - No such command: unknown_command
+2025-03-15 15:43:40,671 - root - INFO - Application exit.
+2025-03-15 15:43:40,671 - root - INFO - Application shutdown.
+2025-03-15 15:43:40,684 - root - INFO - Logging configured.
+2025-03-15 15:43:40,686 - root - INFO - Environment variables loaded.
+2025-03-15 15:43:40,693 - CommandHandler - INFO - Command 'clear' registered.
+2025-03-15 15:43:40,694 - root - INFO - Command 'clear' from plugin 'clear' registered.
+2025-03-15 15:43:40,694 - CommandHandler - INFO - Command 'delete' registered.
+2025-03-15 15:43:40,695 - root - INFO - Command 'delete' from plugin 'delete' registered.
+2025-03-15 15:43:40,695 - CommandHandler - INFO - Command 'load' registered.
+2025-03-15 15:43:40,696 - root - INFO - Command 'load' from plugin 'load' registered.
+2025-03-15 15:43:40,696 - CommandHandler - INFO - Command 'add' registered.
+2025-03-15 15:43:40,697 - root - INFO - Command 'add' from plugin 'add' registered.
+2025-03-15 15:43:40,697 - CommandHandler - INFO - Command 'divide' registered.
+2025-03-15 15:43:40,698 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2025-03-15 15:43:40,698 - CommandHandler - INFO - Command 'exit' registered.
+2025-03-15 15:43:40,698 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2025-03-15 15:43:40,699 - CommandHandler - INFO - Command 'menu' registered.
+2025-03-15 15:43:40,699 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2025-03-15 15:43:40,700 - CommandHandler - INFO - Command 'multiply' registered.
+2025-03-15 15:43:40,700 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2025-03-15 15:43:40,700 - CommandHandler - INFO - Command 'subtract' registered.
+2025-03-15 15:43:40,701 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2025-03-15 15:43:40,701 - CommandHandler - INFO - Command 'menu' registered.
+2025-03-15 15:43:40,701 - CommandHandler - INFO - Executing command: menu with arguments: 
+2025-03-15 15:43:40,701 - root - INFO - Displaying the menu of available commands.
+2025-03-15 15:43:40,701 - root - INFO - Application exit.
+2025-03-15 15:43:40,702 - root - INFO - Application shutdown.
+2025-03-15 15:43:40,810 - root - WARNING - Add command invoked without arguments.
+2025-03-15 15:43:40,817 - root - WARNING - Add command requires exactly two arguments.
+2025-03-15 15:43:40,823 - root - ERROR - Add command received invalid arguments.
+Traceback (most recent call last):
+  File "/root/Calculator/app/plugins/add/__init__.py", line 20, in execute
+    a, b = map(float, args_list)
+    ^^^^
+ValueError: could not convert string to float: 'a'
+2025-03-15 15:43:40,841 - root - INFO - Addition operation recorded successfully: 1.0 + 2.0 = 3.0
+2025-03-15 15:43:40,853 - root - WARNING - Subtract command invoked without arguments.
+2025-03-15 15:43:40,857 - root - WARNING - Subtract command requires exactly two arguments.
+2025-03-15 15:43:40,946 - root - WARNING - Multiply command invoked without arguments.
+2025-03-15 15:43:40,956 - root - WARNING - Multiply command requires exactly two arguments.
+2025-03-15 15:43:41,094 - root - INFO - Attempting to delete calculation history record at index: 999.
+2025-03-15 15:43:41,128 - root - INFO - Attempting to load calculation history.
