@@ -249,7 +249,7 @@ No external libraries are required, making it easy to set up and run in any envi
 ## Authors
 
 - **Akash Deore** - [akashdeore](https://github.com/AkashDeore15)
-Link to explanatory video:  [Video]()
+Link to explanatory video:  [Video](https://drive.google.com/file/d/1Pa4hN9YpOTR0PMjFOm4z5wMZDJxcdgLG/view?usp=sharing)
 
 ## Acknowledgments
 
