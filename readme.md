@@ -248,12 +248,12 @@ No external libraries are required, making it easy to set up and run in any envi
 
 ## Authors
 
-- **Shweta Shardul** - [shwetashardul](https://github.com/shwetashardul)
-Link to explanatory video:  [Video](https://drive.google.com/file/d/1vj-JjeexbJDwge63WxfPjPPavpcG9SYU/view?usp=drive_link)
+- **Akash Deore** - [akashdeore](https://github.com/AkashDeore15)
+Link to explanatory video:  [Video]()
 
 ## Acknowledgments
 
-- Deeply grateful to Professor Keith Williams from New Jersey Institute of Technology for introducing me to professional coding standards, design patterns, testing, plugin architecture, logging and endless number of things i learnt while developing this project.
+- Deeply grateful to Professor Keith Williams from New Jersey Institute of Technology for introducing me to professional coding standards, design patterns, testing, plugin architecture, logging and endless number of things I learnt while developing this project.
 
 
 
